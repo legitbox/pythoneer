@@ -1,2 +1,3 @@
-# pythoneer
-a simple repo for my personal python learning projects
+Pythoneer
+
+Welcome to my Pythoneer repository! This is where I store all of my Python projects.
